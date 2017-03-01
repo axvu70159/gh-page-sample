@@ -1,2 +1,2 @@
-# gh-page-sample
+# 技術筆記
 test
